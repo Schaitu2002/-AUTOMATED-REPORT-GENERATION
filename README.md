@@ -52,9 +52,9 @@ Clinics that want to automate patient reporting
 Educational or training platforms for healthcare tech students
 
 ## OUTPUT:
-A separate PDF file for each patient with:,
-Patient info (ID, Name, Age),
-A table of lab tests with:,
+A separate PDF file for each patient with:  
+Patient info (ID, Name, Age)  
+A table of lab tests with:  
 Test name,
 Result,
 Unit,

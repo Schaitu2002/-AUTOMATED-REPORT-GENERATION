@@ -1,0 +1,7 @@
+PatientID,Name,Age,Test,Result,Unit,ReferenceRange
+1,trinadh,20,Glucose,190,mg/dL,70-110
+2,ashok,19,Glucose,120,mg/dL,70-110
+3,raju,22,Glucose,96,mg/dL,<200
+4,chaitanya,26,Cholesterol,150,mg/dL,70-110
+5,rajesh,34,Glucose,100,mg/dL,<200
+6,sweetha,44,Glucose,135,mg/dL,<200

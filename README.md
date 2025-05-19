@@ -40,7 +40,7 @@ OS – For file management and output directories
 Regex / Logic Matching – For evaluating test result ranges
 
 ## Input Format (CSV Example):
-Patientid  Name	  	Age	Test	Result	Unit	ReferenceRange
+Patientid,  Name,	Age,  Test, 	Result, 	Unit, 	ReferenceRange
 
 ## Use Cases:
 Diagnostic laboratories
@@ -52,11 +52,18 @@ Clinics that want to automate patient reporting
 Educational or training platforms for healthcare tech students
 
 ## OUTPUT:
-A separate PDF file for each patient with:
-Patient info (ID, Name, Age)
-A table of lab tests with:
-Test name
-Result
-Unit
-Reference range
-Normal/Abnormal status
+A separate PDF file for each patient with:,
+Patient info (ID, Name, Age),
+A table of lab tests with:,
+Test name,
+Result,
+Unit,
+Reference range,
+Normal/Abnormal status,
+
+[1_trinadh.pdf](https://github.com/user-attachments/files/20297135/1_trinadh.pdf)
+[2_ashok.pdf](https://github.com/user-attachments/files/20297136/2_ashok.pdf)
+[3_raju.pdf](https://github.com/user-attachments/files/20297137/3_raju.pdf)
+[4_chaitanya.pdf](https://github.com/user-attachments/files/20297139/4_chaitanya.pdf)
+[5_rajesh.pdf](https://github.com/user-attachments/files/20297134/5_rajesh.pdf)
+[6_sweetha.pdf](https://github.com/user-attachments/files/20297138/6_sweetha.pdf)
